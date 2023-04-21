@@ -2,4 +2,4 @@
 
 Executar a classe pedido
 
-Mudar o package, o package original é: com.mycompany.pizzaria;
+Mudar o package, o package original é: <i>com.mycompany.pizzaria;</i>
